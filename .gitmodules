@@ -4,8 +4,8 @@
 	pushurl = git@github.com:vovkos/axl.git
 [submodule "doxyrest"]
 	path = doxyrest
-	url = https://github.com/vovkos/doxyrest
-	pushurl = git@github.com:vovkos/doxyrest.git
+	url = https://github.com/raphaeldussin/doxyrest
+	pushurl = git@github.com:raphaeldussin/doxyrest.git
 [submodule "graco"]
 	path = graco
 	url = https://github.com/vovkos/graco
